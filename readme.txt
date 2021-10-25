@@ -1,1 +1,1 @@
-This is dummu text to verify the initial commit-2
+This is dummu text to verify the initial commit
